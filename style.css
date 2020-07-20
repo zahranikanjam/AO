@@ -27,3 +27,14 @@ button{
 -moz-box-shadow: -1px 5px 9px -5px rgba(150,150,150,1);
 box-shadow: -1px 5px 9px -5px rgba(150,150,150,1);
 }
+@media only screen and (max-width: 600px){
+   
+    .icons{
+     
+        margin-top: 30px;
+    }
+    li{
+        display: inline;
+  
+    }
+}
